@@ -3,6 +3,7 @@
 **Tom Here - Passionate mobile and backend developer**
 
 - 🎓 Applied Computer Science Student at the [Wroclaw University of Science and Technology](https://www.pwr.edu.pl/)
+- 👥 Member of student organization @Solvro
 
 ## Tech Stack 🛠️
 
