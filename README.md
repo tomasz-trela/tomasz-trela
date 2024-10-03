@@ -20,5 +20,5 @@ Dart, Kotlin, JavaScript, Java, SQL
 
 ## Find me on 🔗
 <p align="left">
-    <a href="https://www.linkedin.com/in/jakub-stepkowski/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-st%C4%99pkowski-463a05272" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/tomasz-trela/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-st%C4%99pkowski-463a05272" height="30" width="40" /></a>
 </p>
