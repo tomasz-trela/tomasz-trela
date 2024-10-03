@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello There
 
-<!--
-**tomasz-trela/tomasz-trela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tom Here - Passionate mobile and backend developer**
 
-Here are some ideas to get you started:
+- 🎓 Applied Computer Science Student at the [Wroclaw University of Science and Technology](https://www.pwr.edu.pl/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🛠️
+
+### Languages 🇵🇱 🇬🇧
+Dart, Kotlin, JavaScript, Java, SQL
+
+### Technologies 🕹️
+- **Backend:** TypeScript/Adonisjs
+- **Frontend:** Flutter, Kotlin/Android
+- **Databases:** PostgreSQL, MySQL
+
+### Other Tools 🔮
+- Git/GitHub
+- JetBrains, VS Code
+
+## Find me on 🔗
+<p align="left">
+    <a href="https://www.linkedin.com/in/jakub-stepkowski/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-st%C4%99pkowski-463a05272" height="30" width="40" /></a>
+</p>
