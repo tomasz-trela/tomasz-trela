@@ -7,12 +7,12 @@
 
 ## Tech Stack 🛠️
 
-### Languages 🇵🇱 🇬🇧
+### Languages ⌨️
 Dart, Kotlin, JavaScript, Java, SQL
 
 ### Technologies 🕹️
 - **Backend:** TypeScript/Adonisjs
-- **Frontend:** Flutter, Kotlin/Android
+- **Mobile:** Flutter, Kotlin/Android
 - **Databases:** PostgreSQL, MySQL
 
 ### Other Tools 🔮
