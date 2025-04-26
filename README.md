@@ -8,12 +8,12 @@
 ## Tech Stack 🛠️
 
 ### Languages ⌨️
-Dart, C#, Kotlin, JavaScript, Java, SQL
+Dart, C#, Kotlin, JavaScript, SQL
 
 ### Technologies 🕹️
 - **Backend:** Dotnet/C#, TypeScript/Adonisjs, 
 - **Mobile:** Flutter, Kotlin/Android
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL
 
 ### Other Tools 🔮
 - Git/GitHub
