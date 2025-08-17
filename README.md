@@ -11,7 +11,7 @@
 Dart, C#, Kotlin, JavaScript, SQL
 
 ### Technologies 🕹️
-- **Backend:** Dotnet/C#, TypeScript/Adonisjs, 
+- **Backend:** Dotnet/C#, TypeScript, 
 - **Mobile:** Flutter, Kotlin/Android
 - **Databases:** PostgreSQL
 
