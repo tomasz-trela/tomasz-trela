@@ -10,7 +10,7 @@
 ### Languages ⌨️
 TypeScript, Dart, Kotlin, Swift
 
-### Technologies 🕹️
+### Technologies
 - **Backend:** Nest.js
 - **Frontend:** React
 - **Mobile:** Flutter, React Native, Swift/iOS, Kotlin/Android
